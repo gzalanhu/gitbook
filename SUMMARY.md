@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+   * kubernetes
 * [安装与部署Kubernetes](content/chapter1/indexmd.md)
    * [环境介绍](content/chapter1/section1md.md)
    * [安装master](content/chapter1/section2md.md)
