@@ -1,12 +1,12 @@
 # 第一章 / 第二節
 
 此所有操作都在192.168.20.138(Master上执行)  
-cd /data/softsrc   
+```cd /data/softsrc   
 
 wget http://download.123cw.cn/centos/kubernetes/etcd-v2.1.2-linux-amd64.tar.gz  
 
 
-wget http://download.123cw.cn/centos/kubernetes/kubernetes.tar.gz  
+wget http://download.123cw.cn/centos/kubernetes/kubernetes.tar.gz  ```
 
 安装etcd:  
 tar zxvf etcd-v2.1.2-linux-amd64.tar.gz  
