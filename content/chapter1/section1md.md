@@ -33,7 +33,7 @@ Kubernetes是google开源的一个容器集群管理软件.据说好牛逼具体
 所有包的下载地址我已经放我们自己服务器了  
 
 
-wget http://download.123cw.cn/centos/kubernetes/etcd-v2.1.2-linux-amd64.tar.gz  
+```wget http://download.123cw.cn/centos/kubernetes/etcd-v2.1.2-linux-amd64.tar.gz  
 
-wget http://download.123cw.cn/centos/kubernetes/kubernetes.tar.gz   
+wget http://download.123cw.cn/centos/kubernetes/kubernetes.tar.gz   ```
 
